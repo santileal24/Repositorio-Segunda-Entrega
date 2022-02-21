@@ -1,0 +1,47 @@
+
+*{
+    background-color: black;
+}
+.body{
+    background-color: black;
+}
+.titulo{
+    background-color: black;
+    align-content: center;
+}
+
+.nav-texto-titulo{
+    text-decoration: none;
+    list-style: none;
+    color: antiquewhite;
+    font-size: x-large;
+}
+
+.nav-texto{
+    text-decoration: none;
+    list-style: none;
+    color: antiquewhite;
+    font-size: medium;
+}
+.cards{
+    background-color: antiquewhite;
+    text-decoration: none;
+    list-style: none;
+    color: antiquewhite;
+    font-size: medium;
+}
+
+.texto{
+    color: antiquewhite;
+}
+
+.main{
+    background-color: antiquewhite;
+    color: black;
+}
+
+.tamaño-garantias{
+    width: auto;
+    height: 30%;
+}
+
